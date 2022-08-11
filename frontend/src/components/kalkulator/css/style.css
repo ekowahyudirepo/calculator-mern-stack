@@ -1,0 +1,18 @@
+.kalkulator .form-control {
+    font-size: 70px !important;
+    font-weight: bold !important;
+    text-align: right;
+}
+
+.kalkulator .btn {
+    font-size: 40px !important;
+    font-weight: bold !important;
+    /* border-radius: 50% !important;
+    height: 60px !important; */
+}
+
+.kalkulator .terbilang {
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
